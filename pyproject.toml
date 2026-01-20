@@ -16,6 +16,7 @@ dependencies = [
 	"scipy",
 	"ipython",
 	"ipykernel",
+	"ipywidgets",
 	# pytorch and transformers
 	"torch",
 	"torchvision",
